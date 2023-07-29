@@ -55,6 +55,7 @@ to view some hidden inside of the data.Then we proceed unto data preprocessing w
 - Inferential Statistics
 
 ## Technologies used
+-Python 3
 - seaborn
 - matplotlib
 - numpy
@@ -64,6 +65,7 @@ to view some hidden inside of the data.Then we proceed unto data preprocessing w
 ## Needs of this project
 - data exploration/descriptive statistics
 - data processing/cleaning
+- -EDA
 - feature engineering
 - statistical modeling
 
