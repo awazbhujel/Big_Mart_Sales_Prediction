@@ -65,7 +65,7 @@ to view some hidden inside of the data.Then we proceed unto data preprocessing w
 ## Needs of this project
 - data exploration/descriptive statistics
 - data processing/cleaning
-- -EDA
+- EDA
 - feature engineering
 - statistical modeling
 
