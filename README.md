@@ -55,7 +55,7 @@ to view some hidden inside of the data.Then we proceed unto data preprocessing w
 - Inferential Statistics
 
 ## Technologies used
--Python 3
+- Python 3
 - seaborn
 - matplotlib
 - numpy
